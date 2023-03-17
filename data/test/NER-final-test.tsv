@@ -108,7 +108,7 @@ sentence id	token id	token	BIO NER tag
 4	25	diver	O
 4	26	in	O
 4	27	the	O
-4	28	navy	O
+4	28	Navy	B-ORG
 4	29	.	O
 5	0	Chris	B-PER
 5	1	O'Donnell	I-PER
